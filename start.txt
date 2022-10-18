@@ -1,0 +1,1 @@
+Test de inicio rápido de Git
